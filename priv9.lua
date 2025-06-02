@@ -66,7 +66,7 @@ getgenv().loaded = true
 
 -- Library init
     getgenv().library = {
-        directory = "bbotv1ui",
+        directory = "priv9",
         folders = {
             "/fonts",
             "/configs",
@@ -221,7 +221,7 @@ getgenv().loaded = true
             
             local ProggyTiny = Register_Font("ProggyTiny", 200, "Normal", {
                 Id = "ProggyTiny.ttf",
-                Font = game:HttpGet("https://github.com/i77lhm/storage/raw/refs/heads/main/fonts/ProggyTiny.ttf"),
+                Font = game:HttpGet("https://github.com/i77lhm/storage/raw/refs/heads/main/fonts/tahoma_bold.ttf"),
             })
 
             local ProggyClean = Register_Font("ProggyClean", 200, "normal", {
