@@ -226,7 +226,7 @@ getgenv().loaded = true
 
             local ProggyClean = Register_Font("ProggyClean", 200, "normal", {
                 Id = "ProggyClean.ttf",
-                Font = game:HttpGet("https://github.com/f1nobe7650/other/raw/refs/heads/main/fonts/windows-xp-tahoma.ttf")
+                Font = game:HttpGet("https://github.com/i77lhm/storage/raw/refs/heads/main/fonts/fs-tahoma-8px.ttf")
             })
             
             fonts = {
