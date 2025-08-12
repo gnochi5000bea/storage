@@ -1,4 +1,4 @@
-local ServiceNames = {"UserInputService", "HttpService", "GuiService", "RunService", "Stats", "CoreGui", "TweenService", "Players"} 
+local ServiceNames = {"UserInputService", "HttpService", "GuiService", "RunService", "Stats", "CoreGui", "TweenService", "Players", "Workspace"} 
 local Services = {} 
 
 for _,Service in ServiceNames do 
